@@ -7,7 +7,7 @@ There are two main files:
 
 All assignments need to be submitted via github classroom, assignment 
 
-The homework is due ### 04/17/17.
+The homework is due 04/17/17.
 
 The steps in the code:
 1)  Data Cleaning
