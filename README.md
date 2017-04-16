@@ -1,3 +1,6 @@
+﻿https://travis-ci.com/AppliedMachineLearning/homework-iv-wl2522.svg?token=iNBzZsJXgnHySWzKHvjP&branch=master
+
+
 # homework-iv-IMLPye
 # homework-iv-starter
 
